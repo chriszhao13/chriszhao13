@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris and a first year PhD.
 - 👀 I’m interested in Graph Computing(System or HPC on GPU) 
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning Graph Sampling
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
