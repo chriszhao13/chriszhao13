@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chris and a first-year-PhD student.
+- 👋 Hi, I’m Chris and a second-year-PhD student.
 - 👀 I’m interested in Graph Computing(System or HPC on GPU) 
 - 🌱 I’m currently learning Graph Sampling
 - 
