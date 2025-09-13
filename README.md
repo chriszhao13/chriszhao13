@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chris and a 3-year-PhD student.
+- 👋 Hi, I’m Chris and a 4-year-PhD student.
 - 👀 I’m interested in Parallel Graph Computing. 
 - 🌱 
 - 
