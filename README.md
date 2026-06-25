@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chris, PhD graduate in Parallel Graph Computing.
+- 👋 Hi, I’m Chris, and I received my PhD from Wuhan University.
 - 👀 Focused on high-performance algorithms & GPU acceleration
 - 🌱 
 <!---
